@@ -25,7 +25,7 @@ To get started with the **Download Stock Data** application, you can clone this 
 Ensure you have Python installed, and then install the necessary dependencies:
 
     ```bash
-    pip install streamlit plotly yfinance pandas
+    pip install -r requirements.txt
     ```
 3. **Run the Application**: 
 Navigate to the project directory and run the Streamlit app:
